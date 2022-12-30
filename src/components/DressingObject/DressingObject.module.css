@@ -1,0 +1,25 @@
+.dressingContainer{
+    border: 1px solid black;
+    max-width: 800px;
+    width: 100%;
+    min-height: 100vh;
+}
+.imgPeople{
+    margin: 120px auto 0 auto;
+    display: flex;
+    flex-direction: column;
+    max-width: 250px;
+}
+.imgPeopleHead{
+    max-width: 185px;
+    margin: 0px 0 0 28px;
+}
+.imgPeopleBody{
+
+}
+.imgPeopleLegs{
+
+}
+.imgPeople img{
+
+}
